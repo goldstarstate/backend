@@ -1,0 +1,15 @@
+# GET http://localhost:4000/api/expenses/gold-star-3/New%20Tea/search?searchQuery=Yoga Shanthi
+
+// products
+# GET http://localhost:4000/api/zone-details/gold-star-3
+
+// employees
+# GET http://localhost:4000/api/employees/search?searchQuery=
+
+// salaries
+GET http://localhost:4000/api/salaries?page=1
+# GET http://localhost:4000/api/salaries/search?searchQuery=t
+# PATCH http://localhost:4000/api/salaries/651fb83fec4155786d148f39/500
+
+// dashboard
+GET http://localhost:4000/api/dashboard/expensesAndIncomes
